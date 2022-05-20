@@ -11,5 +11,6 @@ namespace GitPractice
         {
 
         }
+        public int MyProperty { get; set; }
     }
 }
