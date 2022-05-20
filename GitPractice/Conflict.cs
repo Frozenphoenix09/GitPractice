@@ -9,7 +9,7 @@ namespace GitPractice
     {
         public Conflict()
         {
-
         }
+        public int Id { get; set; }
     }
 }
