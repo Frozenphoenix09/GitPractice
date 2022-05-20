@@ -20,6 +20,7 @@ namespace GitPractice
             Host.CreateDefaultBuilder(args)
                 .ConfigureWebHostDefaults(webBuilder =>
                 {
+                    //Hello
                     webBuilder.UseStartup<Startup>();
                 });
     }
